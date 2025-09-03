@@ -42,12 +42,10 @@
 </p>
 
 ---
-
 ### 📊 Stats
-| GitHub Stats | Streak Stats | Top Languages |
-|--------------|--------------|----------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay-lchicken&show_icons=true&locale=en) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=jay-lchicken&) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jay-lchicken&show_icons=true&locale=en&layout=compact) |
-
+| GitHub Stats | Top Languages |
+|--------------|----------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay-lchicken&show_icons=true&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jay-lchicken&show_icons=true&locale=en&layout=compact) |
 ---
 
 ### ⏱️ Hackatime Stats
